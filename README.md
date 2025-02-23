@@ -24,22 +24,22 @@ Please adhere to this project's [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md).
 
 ## Table of Contents
 
-- [APIs](#apis)
+- [APIs](#apis-)
 - [Cheat Sheets](#cheat-sheets)
-- [Color Resources](#color-resources)
-- [CSS Generators](#css-generators)
-- [Design Inspiration](#design-inspiration)
-- [Fonts](#fonts)
-- [Frontend Libraries](#frontend-libraries)
-- [Hosting Platforms](#hosting-platforms)
-- [HTML/CSS Templates](#html-css-templates)
-- [Icons](#icons)
-- [JavaScript Animation Libraries](#javascript-animation-libraries)
-- [Learn CSS by Playing Games](#learn-css-by-playing-games)
-- [Learn Web Development](#learn-web-development)
-- [React Libraries](#react-libraries)
-- [Tailwind Components](#tailwind-components)
-- [Sites for Vectors, Images, and Illustrations](#sites-for-vectors-images-and-illustrations)
+- [Color Resources](#color-resources-)
+- [CSS Generators](#css-generators-)
+- [Design Inspiration](#design-inspiration-)
+- [Fonts](#fonts-)
+- [Frontend Libraries](#frontend-libraries-)
+- [Hosting Platforms](#hosting-platforms-)
+- [HTML/CSS Templates](#htmlcss-templates-)
+- [Icons](#icons-)
+- [JavaScript Animation Libraries](#javascript-animation-libraries-)
+- [Learn CSS by Playing Games](#learn-css-by-playing-games-)
+- [Learn Web Development](#learn-web-development-)
+- [React Libraries](#react-libraries-)
+- [Tailwind Components](#tailwind-components-)
+- [Sites for Vectors, Images, and Illustrations](#sites-for-vectors-images-and-illustrations-)
 
 ## APIs 🔥
 
