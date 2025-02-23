@@ -20,7 +20,7 @@ Contributions are always welcome!
 
 Please take a look at [CONTRIBUTING.md](CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's [CODE-OF-CONDUCT](CODE-OF-CONDUCT.md).
+Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 
 ## Table of Contents
 
