@@ -97,7 +97,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Background Patterns](https://heropatterns.com/)
 - [Border Radius Generator](https://cssnippets.shefali.dev/borderradiusgenerator)
 - [Box Shadow Generator](https://cssnippets.shefali.dev/boxshadowgenerator)
-- [Button Generator](https://www.bestcssbuttongenerator.com/)
+- [Button Generator](https://markodenic.com/tools/buttons-generator/)
 - [Blob Maker](https://www.blobmaker.app/)
 - [Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
 - [Clip Path Generator](https://bennettfeely.com/clippy/)
