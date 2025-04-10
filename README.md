@@ -40,6 +40,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [React Libraries](#react-libraries-)
 - [Tailwind Components](#tailwind-components-)
 - [Sites for Vectors, Images, and Illustrations](#sites-for-vectors-images-and-illustrations-)
+- [Others](#others)
 
 ## APIs 🔥
 
@@ -289,6 +290,11 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Vectorportal](https://www.vectorportal.com/)
 - [Vecteezy](https://www.vecteezy.com/)
 - [Vectorian](https://www.vectorian.net/)
+
+## Others
+
+- [Markdown Preview](https://freecodetools.org/markdown-preview/)
+- [URL Shortener](https://cliow.com/)
 
 # Hi, I'm Shefali! 👋
 
