@@ -264,7 +264,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Styled Components](https://styled-components.com)
 
 ## Tailwind Components 🔥
-
+- [Tailwind Color Generator](https://uicolors.app/)
 - [Creative Tim](https://www.creative-tim.com/)
 - [CSSnippets](https://cssnippets.shefali.dev/)
 - [Flowbite](https://flowbite.com/)
