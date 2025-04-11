@@ -293,6 +293,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 
 ## Others
 
+- [CSS to Tailwind CSS Converter](https://styleshift.shefali.dev/)
 - [Markdown Preview](https://freecodetools.org/markdown-preview/)
 - [URL Shortener](https://cliow.com/)
 
