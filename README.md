@@ -264,7 +264,6 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Styled Components](https://styled-components.com)
 
 ## Tailwind Components 🔥
-- [Tailwind Color Generator](https://uicolors.app/)
 - [Creative Tim](https://www.creative-tim.com/)
 - [CSSnippets](https://cssnippets.shefali.dev/)
 - [Flowbite](https://flowbite.com/)
@@ -273,6 +272,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Hyper UI](https://www.hyperui.dev/)
 - [Meraki UI](https://merakiui.com/)
 - [Tailblocks](https://tailblocks.cc/)
+- [Tailwind Color Generator](https://uicolors.app/)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 - [Tailwind UI](https://tailwindui.com/)
 
