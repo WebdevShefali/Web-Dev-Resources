@@ -234,6 +234,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Javascript30](https://javascript30.com/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Learnify](https://learnify.shefali.dev/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Scrimba](https://scrimba.com/)
 - [TheOdinProject](https://www.theodinproject.com/)
