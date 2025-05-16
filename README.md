@@ -51,6 +51,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Fake Store API](https://fakestoreapi.com/)
 - [GIPHY API](https://developers.giphy.com/docs/sdk)
 - [GitHub API](https://docs.github.com/en/rest)
+- [IPStack](https://ipstack.com/)
 - [Marvel API](https://developer.marvel.com/)
 - [Movie (OMDb) API](http://www.omdbapi.com/)
 - [NASA API](https://api.nasa.gov/)
