@@ -171,6 +171,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Netlify](https://www.netlify.com/)
 - [Railway](https://railway.com/)
 - [Render](https://render.com/)
+- [Shipvela](https://shipvela.com/)
 - [Supabase](https://supabase.io/)
 - [Surge](https://surge.sh/)
 - [Vercel](https://vercel.com/)
