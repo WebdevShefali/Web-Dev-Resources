@@ -49,6 +49,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [CoinPaprika API](https://coinpaprika.com/api/)
 - [Dogs API](https://thedogapi.com/)
 - [Fake Store API](https://fakestoreapi.com/)
+- [FaviconDL API](https://favicondl.com/documentation.html)
 - [GIPHY API](https://developers.giphy.com/docs/sdk)
 - [GitHub API](https://docs.github.com/en/rest)
 - [IPStack](https://ipstack.com/)
