@@ -47,6 +47,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Chuck Norris Jokes API](https://api.chucknorris.io/)
 - [CloudConvert API](https://cloudconvert.com/api/v2)
 - [CoinPaprika API](https://coinpaprika.com/api/)
+- [CurlShot API](https://curlshot.com/docs)
 - [Dogs API](https://thedogapi.com/)
 - [Fake Store API](https://fakestoreapi.com/)
 - [GIPHY API](https://developers.giphy.com/docs/sdk)
