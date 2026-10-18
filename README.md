@@ -248,6 +248,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 - [TheOdinProject](https://www.theodinproject.com/)
 - [W3Schools](https://www.w3schools.com/)
+- [WebCheatSheet](https://webcheatsheet.com/)
 
 ### YouTube Channels
 
