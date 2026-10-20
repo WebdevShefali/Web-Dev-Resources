@@ -95,6 +95,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [ColorPicker](https://www.colorpicker.com/)
 - [MyColor](https://mycolor.space/)
 - [Paletton](http://paletton.com/)
+- [ToolKnit Color Picker](https://toolknit.com/tools/color-picker.html)
 
 ## CSS Generators 🔥
 
