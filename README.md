@@ -72,6 +72,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 
 ## Cheat Sheets🔥
 
+- [ASCII Table](https://asciitable.co/)
 - [HTML Cheat Sheet](https://htmlcheatsheet.com/)
 - [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 - [JavaScript Cheat Sheet](https://javascript.info/)
