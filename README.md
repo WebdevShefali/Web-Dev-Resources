@@ -169,6 +169,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 
 - [Appwrite](https://appwrite.io/)
 - [Cyclic.sh](http://cyclic.sh/)
+- [deed.page](https://deed.page/)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
 - [GitHub Pages](https://pages.github.com/)
 - [InfinityFree](https://infinityfree.net/)
