@@ -317,6 +317,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Nutilz](https://nutilz.com)
 - [Snippet Editor](https://snippeteditor.com/)
 - [URL Shortener](https://cliow.com/)
+- [VPS Host Review](https://vpshostreview.com/) - Independent VPS hosting review site with customer reviews and benchmark comparisons.
 
 # Hi, I'm Shefali! 👋
 
