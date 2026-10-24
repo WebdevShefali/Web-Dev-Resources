@@ -310,6 +310,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 
 ## Others
 
+- [APPLORE PNG to SVG](https://applore.app/png-to-svg) - Free PNG to SVG converter for icons and logos, runs in the browser with no sign-up.
 - [Article Banner](https://articlebanner.com/)
 - [BestJSON JSON Viewer](https://bestjson.com/json-viewer) - Explore nested JSON as a searchable tree and inspect keys, values and paths.
 - [CSS to Tailwind CSS Converter](https://styleshift.shefali.dev/)
