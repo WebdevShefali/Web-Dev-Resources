@@ -300,6 +300,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Freepik](https://www.freepik.com/)
 - [Openclipart](https://openclipart.org/)
 - [Pexels](https://www.pexels.com/)
+- [Pic2Vector](https://pic2vector.com/)
 - [Pixabay](https://pixabay.com/)
 - [SVGRepo](https://www.svgrepo.com/)
 - [SVGBackgrounds](https://www.svgbackgrounds.com/)
