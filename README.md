@@ -317,6 +317,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [CSS to Tailwind CSS Converter](https://styleshift.shefali.dev/)
 - [Markdown Preview](https://freecodetools.org/markdown-preview/)
 - [Nutilz](https://nutilz.com)
+- [Pic2SVG SVG checker](https://pic2svg.com/svg-cut-file-checker/) - Inspect SVG markup for image elements, live text, open outlines and document size locally; free, no account.
 - [Snippet Editor](https://snippeteditor.com/)
 - [URL Shortener](https://cliow.com/)
 - [VPS Host Review](https://vpshostreview.com/) - Independent VPS hosting review site with customer reviews and benchmark comparisons.
