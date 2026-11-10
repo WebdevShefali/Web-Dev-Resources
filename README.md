@@ -168,6 +168,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 ## Hosting Platforms 🔥
 
 - [Appwrite](https://appwrite.io/)
+- [BrewPage](https://brewpage.app/)
 - [Cyclic.sh](http://cyclic.sh/)
 - [deed.page](https://deed.page/)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
