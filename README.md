@@ -268,6 +268,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Chakra UI](https://chakra-ui.com)
 - [Formik](https://formik.org)
 - [Framer Motion](https://www.framer.com/motion)
+- [Markstream React](https://markstream.simonhe.me/frameworks/react)
 - [Material-UI (MUI)](https://mui.com)
 - [Recharts](https://recharts.org)
 - [React Bootstrap](https://react-bootstrap.github.io)
