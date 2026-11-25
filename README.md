@@ -321,6 +321,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [BestJSON JSON Viewer](https://bestjson.com/json-viewer) - Explore nested JSON as a searchable tree and inspect keys, values and paths.
 - [CSS to Tailwind CSS Converter](https://styleshift.shefali.dev/)
 - [JFIF to JPG](https://jfiftojpg.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome_list&utm_content=webdevshefali) - Convert JFIF images to JPG or PNG in the browser, no upload, no re-compression.
+- [Kite](https://kite.new) - Design tool your AI agents and your team share: Claude, ChatGPT, Cursor or Codex draw real, editable layers through a hosted MCP server, and any frame copies out as HTML, React or Tailwind. Free plan.
 - [Markdown Preview](https://freecodetools.org/markdown-preview/)
 - [Nutilz](https://nutilz.com)
 - [Snippet Editor](https://snippeteditor.com/)
