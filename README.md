@@ -70,6 +70,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [TV Maze API](https://www.tvmaze.com/api)
 - [Unsplash API](https://unsplash.com/developers)
 - [VirusTotal API](https://developers.virustotal.com/reference)
+- [YouTube Transcript API](https://apify.com/johnvc/youtubetranscripts)
 
 ## Cheat Sheets🔥
 
