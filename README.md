@@ -67,6 +67,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Public APIs](https://publicapis.io/)
 - [Reddit API](https://www.reddit.com/dev/api/)
 - [REST Countries API](https://restcountries.com/)
+- [Tempboxy API](https://tempboxy.com/temp-mail-api)
 - [TV Maze API](https://www.tvmaze.com/api)
 - [Unsplash API](https://unsplash.com/developers)
 - [VirusTotal API](https://developers.virustotal.com/reference)
