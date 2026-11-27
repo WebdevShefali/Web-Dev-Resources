@@ -87,6 +87,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 ## Color Resources 🔥
 
 - [Adobe Color](https://color.adobe.com/create)
+- [Color Palette Generator](https://bestlatestapps.com/tools/color-palette-generator/)
 - [Coolors](https://coolors.co/)
 - [ColorHub](https://colorhub.app/)
 - [ColorHunt](https://colorhunt.co/)
